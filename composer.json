@@ -19,11 +19,10 @@
 		}
 	],
     "autoload": {
-        "psr-0": {
+        "psr-4": {
             "Soluble\\Normalist\\": ""
         }
     },
-    "target-dir": "Soluble/Normalist",
     "require": {
         "php": ">=5.3.3",
         "soluble/db": "self.version",
